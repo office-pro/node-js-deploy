@@ -1,8 +1,0 @@
-{
-  "appService.zipIgnorePattern": [
-    "node_modules{,/**}",
-    ".vscode{,/**}"
-  ],
-  "appService.defaultWebAppToDeploy": "/subscriptions/7059a636-aae2-4988-9a9e-8f119223bccd/resourceGroups/reedemify-api_group/providers/Microsoft.Web/sites/reedemify-api",
-  "appService.deploySubpath": "dist"
-}
